@@ -1,0 +1,74 @@
+{
+  "articleCounts": { "eng": 1 },
+  "categories": [
+    {
+      "parentUri": "dmoz/Arts/Music",
+      "uri": "dmoz/Arts/Music/Instruments",
+      "label": "dmoz/Arts/Music/Instruments",
+      "wgt": 40,
+      "details": { },
+      "id": 96
+    },
+    {
+      "parentUri": "dmoz/Society/Death",
+      "uri": "dmoz/Society/Death/In_Memoriam",
+      "label": "dmoz/Society/Death/In Memoriam",
+      "wgt": 40,
+      "details": { },
+      "id": 1031
+    },
+    {
+      "parentUri": "dmoz/Sports",
+      "uri": "dmoz/Sports/Rodeo",
+      "label": "dmoz/Sports/Rodeo",
+      "wgt": 100,
+      "details": { },
+      "id": 1133
+    }
+  ],
+  "eventDate": "2017-03-20",
+  "id": 202491,
+  "images": [ "http://i.dailymail.co.uk/i/pix/2017/03/20/21/3E77B88E00000578-0-image-a-10_1490047106076.jpg" ],
+  "location": {
+    "lat": 30.62798,
+    "country": {
+      "lat": 39.76,
+      "type": "country",
+      "long": -98.5,
+      "label": { "eng": "United States" }
+    },
+    "type": "place",
+    "long": -96.33441,
+    "label": { "eng": "College Station, Texas" }
+  },
+  "stories": [
+    {
+      "lang": "eng",
+      "isUserSetLocation": false,
+      "uri": "eng-2987065",
+      "eventUri": "eng-2987065",
+      "wgt": 1,
+      "location": {
+        "lat": 30.62798,
+        "country": {
+          "lat": 39.76,
+          "type": "country",
+          "long": -98.5,
+          "label": { "eng": "United States" }
+        },
+        "type": "place",
+        "long": -96.33441,
+        "label": { "eng": "College Station, Texas" }
+      },
+      "articleCount": 1,
+      "variance": 0.3764705882352941,
+      "id": "202491",
+      "avgCos": 0.788235294117647
+    }
+  ],
+  "summary": { "eng": "A community near College Station is mourning the loss of a tiny rodeo competitor who died Saturday, March 18 before entering the ring.\n\nTen-year-old Piper Faust was waiting to compete in barrel racing at the Caldwell, Texas rodeo when her horse rolled on top of her, KBTX reports.\n\nHer parents told the TV station that Faust was a fierce competitor who excelled in dance, softball and other activities, but spent the last few months focusing on her rodeo event.\n\nPHOTOS: See the best shots from RodeoH" },
+  "title": { "eng": "10-year-old girl dies before competing in Texas rodeo" },
+  "totalArticleCount": 1,
+  "uri": "eng-2987065",
+  "wgt": 1
+}
